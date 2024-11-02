@@ -2,7 +2,7 @@
 
 🌐 **Data | Machine Learning | Technology Solutions**
 
-I'm an IT professional with a focus on **data analytics, machine learning**, and **process optimization**. With a Master’s in Information Systems Management, I specialize in using technology to extract insights, streamline workflows, and deliver meaningful business results.
+I'm an IT professional with a focus on **data analytics, business analytics and visualizations**, and **process optimization**. With a Master’s in Information Systems Management, I specialize in using technology to extract insights, streamline workflows, and deliver meaningful business results.
 
 ---
 
